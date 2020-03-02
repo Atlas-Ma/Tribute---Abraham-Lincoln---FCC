@@ -1,0 +1,18 @@
+h1 {text-align:center;
+    font-size:50px;}
+
+p{text-align:center;
+   font-size:25px;}
+
+li {padding:10px;}
+
+figcaption {text-align:center;
+font-size:25px;}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  
+}
